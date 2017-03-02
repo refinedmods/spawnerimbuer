@@ -1,0 +1,16 @@
+.gradle/
+.nb-gradle/
+.settings/
+build/
+eclipse/
+.classpath
+.nb-gradle-properties
+.project
+*.launch
+run/
+*.iml
+*.ipr
+*.iws
+.idea/
+out/
+translation-diff.diff
